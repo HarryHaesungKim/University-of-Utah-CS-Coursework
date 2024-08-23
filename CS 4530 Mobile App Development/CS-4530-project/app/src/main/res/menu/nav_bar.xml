@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Profile"
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/baseline_person_24"/>
+
+    <item
+        android:title="BMR"
+        android:id="@+id/nav_bmr"
+        android:icon="@drawable/baseline_local_fire_department_24"/>
+
+    <item android:title="Hikes"
+        android:id="@+id/nav_hikes"
+        android:icon="@drawable/baseline_hiking_24"/>
+
+    <item android:title="Weather"
+        android:id="@+id/nav_weather"
+        android:icon="@drawable/baseline_cloud_24"/>
+</menu>

@@ -1,0 +1,77 @@
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <vector>
+#include "Trie.h"
+
+int main()
+{
+     Trie myBrandNewTrie = Trie();
+     myBrandNewTrie.addAWord("hello");
+     myBrandNewTrie.addAWord("health");
+     myBrandNewTrie.addAWord("heaven");
+     myBrandNewTrie.addAWord("hound");
+     myBrandNewTrie.addAWord("water");
+     myBrandNewTrie.addAWord("wazzup");
+     cout << endl;
+
+     cout << "--------------------isAWord tests-----------------------" << endl;
+     bool judgement = myBrandNewTrie.isAWord("water");
+     cout << "Judgement 1 is (should be true 1): " << judgement << endl
+          << endl;
+
+     bool judgement2 = myBrandNewTrie.isAWord("hello");
+     cout << "Judgement 2 is (should be true 1): " << judgement2 << endl
+          << endl;
+
+     bool judgement3 = myBrandNewTrie.isAWord("hell");
+     cout << "Judgement 3 is (should be false 0): " << judgement3 << endl
+          << endl;
+
+     bool judgement4 = myBrandNewTrie.isAWord("helli");
+     cout << "Judgement 4 is (should be false 0): " << judgement4 << endl
+          << endl;
+
+     bool judgement6 = myBrandNewTrie.isAWord("health");
+     cout << "Judgement 6 is (should be true 1): " << judgement6 << endl
+          << endl;
+
+     bool judgement5 = myBrandNewTrie.isAWord("");
+     cout << "Judgement 5 is (should be false 0): " << judgement5 << endl
+          << endl;
+
+     cout << endl;
+     cout << "--------------------allWordsStartingWithPrefix tests-----------------------" << endl;
+
+     vector<string> hWords = myBrandNewTrie.allWordsStartingWithPrefix("h");
+     cout << "The vector elements are: ";
+     for (unsigned int i = 0; i < hWords.size(); i++)
+          cout << hWords.at(i) << ' ';
+     cout << endl;
+
+     vector<string> words = myBrandNewTrie.allWordsStartingWithPrefix("he");
+     cout << "The vector elements are: ";
+     for (unsigned int i = 0; i < words.size(); i++)
+          cout << words.at(i) << ' ';
+     cout << endl;
+
+     vector<string> emptyWords = myBrandNewTrie.allWordsStartingWithPrefix("");
+     cout << "The vector elements are: ";
+     for (unsigned int i = 0; i < emptyWords.size(); i++)
+          cout << emptyWords.at(i) << ' ';
+     cout << endl;
+
+     vector<string> wWords = myBrandNewTrie.allWordsStartingWithPrefix("w");
+     cout << "The vector elements are: ";
+     for (unsigned int i = 0; i < wWords.size(); i++)
+          cout << wWords.at(i) << ' ';
+     cout << endl;
+
+     vector<string> notfound = myBrandNewTrie.allWordsStartingWithPrefix("zebra");
+     cout << "The vector elements are: ";
+     for (unsigned int i = 0; i < notfound.size(); i++)
+          cout << notfound.at(i) << ' ';
+     cout << endl;
+
+     return 0;
+}

@@ -1,0 +1,22 @@
+SENTENCE: Book me the morning flight 
+OPERATORS
+Shift Shift RightArc_iobj Shift Shift Shift LeftArc_nmod LeftArc_det RightArc_dobj RightArc_root 
+
+PARSING NOW
+Shifting Book(1)
+Shifting me(2)
+RightArc_iobj to produce: Book(1) -- iobj --> me(2)
+Shifting the(3)
+Shifting morning(4)
+Shifting flight(5)
+LeftArc_nmod to produce: flight(5) -- nmod --> morning(4)
+LeftArc_det to produce: flight(5) -- det --> the(3)
+RightArc_dobj to produce: Book(1) -- dobj --> flight(5)
+RightArc_root to produce: ROOT(0) -- root --> Book(1)
+
+FINAL DEPENDENCY PARSE
+Book(1) -- iobj --> me(2)
+flight(5) -- nmod --> morning(4)
+flight(5) -- det --> the(3)
+Book(1) -- dobj --> flight(5)
+ROOT(0) -- root --> Book(1)

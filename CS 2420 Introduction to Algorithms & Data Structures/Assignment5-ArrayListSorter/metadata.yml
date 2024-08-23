@@ -1,0 +1,14 @@
+---
+:id: 46800890
+:submitters:
+- :name: BRADEN MORFIN
+  :email: u1219599@utah.edu
+- :name: HARRY KIM
+  :email: u1226472@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-10-01 03:59:53.045159000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-09-30 20:59:53.045159000 Z
+:status: processed
+:score: 47.0

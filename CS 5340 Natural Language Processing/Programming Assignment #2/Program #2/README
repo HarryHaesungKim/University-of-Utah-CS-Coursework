@@ -1,0 +1,9 @@
+How to compile parser.py using sentops1.txt, operators.txt, and gold1.txt:
+    python3 parser.py -simulate ./data-files/sentops1.txt
+    python3 parser.py -genops ./data-files/operators.txt ./data-files/gold1.txt
+
+Cade machine:
+    lab 1-16
+
+Any known bugs or limitations:
+    No observed bugs or limitations thus far. The outputs match up nicely with the provided outputs.

@@ -1,0 +1,12 @@
+How to compile lesk.py using test.txt, definitions.txt, and stopwords.txt:
+    python3 lesk.py ./data/test.txt ./data/definitions.txt ./data/stopwords.txt
+
+How to compile distsim.py using train.txt, test.txt, and stopwords.txt:
+    python3 distsim.py ./data/train.txt ./data/test.txt ./data/stopwords.txt 10
+
+Cade machine:
+    lab 1-15
+
+Any known bugs or limitations:
+    One small output difference. my test.txt.distsim has an extra line at the endof the file as compared to the provided test.txt.distsim file. Other than that, outputs match up nicely.
+    I like to keep provided data within it's own folder. Therefore, when compiling and and running code, './data/' is needed before every .txt file input in the terminal. However, the code should work perfectly fine if .txt files are in the same file as .py files.

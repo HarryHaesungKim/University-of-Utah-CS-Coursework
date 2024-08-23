@@ -1,0 +1,12 @@
+---
+:id: 86000143
+:submitters:
+- :name: HARRY KIM
+  :email: u1226472@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-09-02 06:07:01.643548000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-09-01 23:07:01.643548000 Z
+:status: processed
+:score: 100.0

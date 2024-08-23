@@ -1,0 +1,13 @@
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Model\bin\Debug\netstandard2.0\Model.deps.json
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Model\bin\Debug\netstandard2.0\Model.dll
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Model\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Model\bin\Debug\netstandard2.0\Vector2D.dll
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Model\bin\Debug\netstandard2.0\Vector2D.pdb
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Model\obj\Debug\netstandard2.0\Model.csproj.AssemblyReference.cache
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Model\obj\Debug\netstandard2.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Model\obj\Debug\netstandard2.0\Model.csproj.CopyComplete
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Model\obj\Debug\netstandard2.0\Model.dll
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Model\obj\Debug\netstandard2.0\Model.pdb

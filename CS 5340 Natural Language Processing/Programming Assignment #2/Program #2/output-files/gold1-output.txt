@@ -1,0 +1,31 @@
+SENTENCE: Book me the morning flight 
+GOLD DEPENDENCIES
+ROOT(0) -- root --> Book(1)
+Book(1) -- iobj --> me(2)
+flight(5) -- det --> the(3)
+flight(5) -- nmod --> morning(4)
+Book(1) -- dobj --> flight(5)
+
+GENERATING PARSING OPERATORS
+Shift
+Shift
+RightArc_iobj to produce: Book(1) -- iobj --> me(2)
+Shift
+Shift
+Shift
+LeftArc_nmod to produce: flight(5) -- nmod --> morning(4)
+LeftArc_det to produce: flight(5) -- det --> the(3)
+RightArc_dobj to produce: Book(1) -- dobj --> flight(5)
+RightArc_root to produce: ROOT(0) -- root --> Book(1)
+
+FINAL OPERATOR SEQUENCE
+Shift
+Shift
+RightArc_iobj
+Shift
+Shift
+Shift
+LeftArc_nmod
+LeftArc_det
+RightArc_dobj
+RightArc_root

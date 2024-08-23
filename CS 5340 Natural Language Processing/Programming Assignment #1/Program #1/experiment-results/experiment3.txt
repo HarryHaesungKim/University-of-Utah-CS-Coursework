@@ -1,0 +1,20 @@
+[u1226472@lab1-16 Program #1]$ python3 ml.py trainB_features.csv testB_features.csv W1 W2 W3 W4 W5 POS NEG
+Running Logistic Regression classification algorithm...
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 16 concurrent workers.
+Epoch 1, change: 1.00000000
+Epoch 2, change: 0.34371753
+Epoch 3, change: 0.32508808
+Epoch 4, change: 0.17441428
+Epoch 5, change: 0.10653056
+convergence after 6 epochs took 0 seconds
+[Parallel(n_jobs=-1)]: Done   1 out of   1 | elapsed:    0.5s finished
+              precision    recall  f1-score   support
+
+           0       0.64      0.70      0.67       246
+           1       0.68      0.61      0.65       254
+
+    accuracy                           0.66       500
+   macro avg       0.66      0.66      0.66       500
+weighted avg       0.66      0.66      0.66       500
+
+[u1226472@lab1-16 Program #1]$

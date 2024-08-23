@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="first_name_hint">first_name</string>
+    <string name="middle_name_hint">middle_name</string>
+    <string name="last_name_hint">last_name</string>
+    <string name="submit_button_text">submit</string>
+    <string name="take_picture_button_text">take picture</string>
+</resources>

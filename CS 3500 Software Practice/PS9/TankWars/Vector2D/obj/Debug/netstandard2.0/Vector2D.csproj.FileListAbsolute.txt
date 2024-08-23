@@ -1,0 +1,10 @@
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.deps.json
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.dll
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.pdb
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.csproj.AssemblyReference.cache
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.AssemblyInfoInputs.cache
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.AssemblyInfo.cs
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.dll
+C:\Users\Harry\Desktop\U of U CS Assignments Repository\CS 3500 Software Practice\PS9\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.pdb

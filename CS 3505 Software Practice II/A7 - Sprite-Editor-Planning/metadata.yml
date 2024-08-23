@@ -1,0 +1,20 @@
+---
+:id: 99378255
+:submitters:
+- :name: COLE HANSON
+  :email: u1257293@utah.edu
+- :name: CORY THEEL
+  :email: u1249664@utah.edu
+- :name: BRADEN MORFIN
+  :email: u1219599@utah.edu
+- :name: HARRY KIM
+  :email: u1226472@utah.edu
+- :name: JOSHUA TAYLOR
+  :email: u1170526@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-11-10 05:37:12.025253000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-11-09 21:37:12.025253000 Z
+:status: processed
+:score: 97.0

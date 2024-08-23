@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SubmitFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="16dp">
+
+        <TextView
+            android:id="@+id/tv_enter_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="32dp"
+            android:text="@string/name"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/et_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="16dp"
+            android:background="@drawable/custom_edit_text"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:maxLength="50"
+            app:layout_constraintBaseline_toBaselineOf="@+id/tv_enter_name"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/tv_enter_name" />
+
+        <Button
+            android:id="@+id/button_request_location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/share_location"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_enter_name" />
+
+        <TextView
+            android:id="@+id/tv_enter_city"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/city"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/button_request_location" />
+
+        <EditText
+            android:id="@+id/et_city"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="16dp"
+            android:background="@drawable/custom_edit_text"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:maxLength="50"
+            app:layout_constraintBaseline_toBaselineOf="@+id/tv_enter_city"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/tv_enter_city" />
+
+        <TextView
+            android:id="@+id/tv_enter_country"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="32dp"
+            android:text="@string/country"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_enter_city" />
+
+        <EditText
+            android:id="@+id/et_country"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="16dp"
+            android:background="@drawable/custom_edit_text"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:maxLength="50"
+            app:layout_constraintBaseline_toBaselineOf="@+id/tv_enter_country"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/tv_enter_country" />
+
+        <TextView
+            android:id="@+id/tv_enter_age"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="32dp"
+            android:text="@string/age"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_enter_country" />
+
+        <TextView
+            android:id="@+id/tv_age_entry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBaseline_toBaselineOf="@+id/tv_enter_age"
+            app:layout_constraintStart_toStartOf="@+id/slider_age"
+            app:layout_constraintEnd_toEndOf="@+id/slider_age"/>
+
+        <com.google.android.material.slider.Slider
+            android:id="@+id/slider_age"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            app:layout_constraintStart_toEndOf="@+id/tv_enter_weight"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_age_entry"
+            app:labelBehavior="gone"
+            android:stepSize="1"
+            android:valueFrom="0"
+            android:valueTo="100"
+            android:value="18" />
+
+        <TextView
+            android:id="@+id/tv_enter_height"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="48dp"
+            android:text="@string/height"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_enter_age" />
+
+        <TextView
+            android:id="@+id/tv_feet_entry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBaseline_toBaselineOf="@+id/tv_enter_height"
+            app:layout_constraintStart_toStartOf="@+id/slider_feet"
+            app:layout_constraintEnd_toEndOf="@+id/slider_feet"/>
+
+        <com.google.android.material.slider.Slider
+            android:id="@+id/slider_feet"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toEndOf="@+id/tv_enter_weight"
+            app:layout_constraintEnd_toStartOf="@+id/slider_inches"
+            app:layout_constraintTop_toBottomOf="@+id/tv_feet_entry"
+            app:labelBehavior="gone"
+            android:stepSize="1"
+            android:valueFrom="1"
+            android:valueTo="7"
+            android:value="5" />
+
+        <TextView
+            android:id="@+id/tv_inches_entry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBaseline_toBaselineOf="@+id/tv_enter_height"
+            app:layout_constraintStart_toStartOf="@+id/slider_inches"
+            app:layout_constraintEnd_toEndOf="@+id/slider_inches"/>
+
+        <com.google.android.material.slider.Slider
+            android:id="@+id/slider_inches"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            app:layout_constraintStart_toEndOf="@+id/slider_feet"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_inches_entry"
+            app:labelBehavior="gone"
+            android:stepSize="1"
+            android:valueFrom="0"
+            android:valueTo="11"
+            android:value="6" />
+
+        <TextView
+            android:id="@+id/tv_enter_weight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="48dp"
+            android:text="@string/weight"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_enter_height" />
+
+        <TextView
+            android:id="@+id/tv_weight_entry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBaseline_toBaselineOf="@+id/tv_enter_weight"
+            app:layout_constraintStart_toStartOf="@+id/slider_weight"
+            app:layout_constraintEnd_toEndOf="@+id/slider_weight"/>
+
+        <com.google.android.material.slider.Slider
+            android:id="@+id/slider_weight"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            app:layout_constraintStart_toEndOf="@+id/tv_enter_weight"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_weight_entry"
+            app:labelBehavior="gone"
+            android:stepSize="1"
+            android:valueFrom="1"
+            android:valueTo="400"
+            android:value="200" />
+
+        <TextView
+            android:id="@+id/tv_enter_sex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="48dp"
+            android:text="@string/sex"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_enter_weight" />
+
+        <Spinner
+            android:id="@+id/spinner_sex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="16dp"
+            android:entries="@array/sex_array"
+            app:layout_constraintBottom_toBottomOf="@+id/tv_enter_sex"
+            app:layout_constraintStart_toEndOf="@+id/tv_enter_sex" />
+
+        <TextView
+            android:id="@+id/tv_enter_activity_level"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="32dp"
+            android:text="@string/activity_level"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_enter_sex" />
+
+        <Spinner
+            android:id="@+id/spinner_activity_level"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:entries="@array/activity_level_array"
+            app:layout_constraintBottom_toBottomOf="@+id/tv_enter_activity_level"
+            app:layout_constraintStart_toEndOf="@+id/tv_enter_activity_level" />
+
+        <Button
+            android:id="@+id/button_pic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="16dp"
+            android:text="@string/take_a_picture"
+            app:layout_constraintBottom_toBottomOf="@+id/button_submit"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <ImageView
+            android:id="@+id/iv_preview_pic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:layout_marginBottom="20dp"
+            app:layout_constraintStart_toEndOf="@+id/button_pic"
+            app:layout_constraintEnd_toStartOf="@+id/button_submit"
+            app:layout_constraintTop_toTopOf="@+id/button_pic" />
+
+        <Button
+            android:id="@+id/button_submit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/submit"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_enter_activity_level" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

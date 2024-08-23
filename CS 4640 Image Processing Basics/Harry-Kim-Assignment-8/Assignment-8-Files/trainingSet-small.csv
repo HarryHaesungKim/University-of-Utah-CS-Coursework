@@ -1,0 +1,901 @@
+,name,labels
+7637,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00613.png,2
+3199,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00444.png,6
+3363,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00160.png,6
+1058,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00923.png,0
+5264,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00548.png,4
+5128,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00872.png,4
+927,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00338.png,3
+5566,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00186.png,4
+306,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00938.png,3
+8485,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00239.png,8
+6225,Fish_Dataset/Fish_Dataset/Trout/Trout/00299.png,7
+8580,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00323.png,8
+3678,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00992.png,6
+6944,Fish_Dataset/Fish_Dataset/Trout/Trout/00489.png,7
+2943,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00034.png,5
+3672,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00161.png,6
+8038,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00021.png,8
+6656,Fish_Dataset/Fish_Dataset/Trout/Trout/00292.png,7
+6340,Fish_Dataset/Fish_Dataset/Trout/Trout/00812.png,7
+8256,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00046.png,8
+5450,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00798.png,4
+6186,Fish_Dataset/Fish_Dataset/Trout/Trout/00164.png,7
+3674,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00032.png,6
+1747,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00560.png,0
+5389,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00168.png,4
+1980,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00877.png,0
+7932,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00488.png,2
+4230,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00857.png,1
+2569,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00144.png,5
+4144,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00763.png,1
+4328,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00058.png,1
+1860,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00272.png,0
+4178,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00800.png,1
+5136,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00716.png,4
+2089,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00005.png,5
+8700,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00022.png,8
+1269,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00481.png,0
+6582,Fish_Dataset/Fish_Dataset/Trout/Trout/00886.png,7
+2042,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00568.png,5
+6317,Fish_Dataset/Fish_Dataset/Trout/Trout/00371.png,7
+3380,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00514.png,6
+3877,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00662.png,6
+7969,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00095.png,2
+6165,Fish_Dataset/Fish_Dataset/Trout/Trout/00574.png,7
+7292,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00858.png,2
+4318,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00980.png,1
+4088,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00796.png,1
+4156,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00040.png,1
+258,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00380.png,3
+4164,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00985.png,1
+700,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00022.png,3
+1681,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00649.png,0
+8869,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00973.png,8
+101,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00019.png,3
+1702,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00967.png,0
+1401,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00609.png,0
+385,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00102.png,3
+4945,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00492.png,1
+6666,Fish_Dataset/Fish_Dataset/Trout/Trout/00283.png,7
+4605,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00066.png,1
+7000,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00437.png,2
+3628,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00901.png,6
+1276,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00350.png,0
+574,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00352.png,3
+6824,Fish_Dataset/Fish_Dataset/Trout/Trout/00599.png,7
+6517,Fish_Dataset/Fish_Dataset/Trout/Trout/00776.png,7
+268,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00142.png,3
+5831,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00528.png,4
+1345,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00211.png,0
+1214,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00486.png,0
+4919,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00270.png,1
+874,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00315.png,3
+1343,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00615.png,0
+2531,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00433.png,5
+3719,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00501.png,6
+8636,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00810.png,8
+2058,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00923.png,5
+5875,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00076.png,4
+6959,Fish_Dataset/Fish_Dataset/Trout/Trout/00353.png,7
+2630,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00493.png,5
+8063,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00733.png,8
+4884,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00575.png,1
+507,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00091.png,3
+2779,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00157.png,5
+5353,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00439.png,4
+2741,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00104.png,5
+1818,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00899.png,0
+5348,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00411.png,4
+5246,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00545.png,4
+8163,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00849.png,8
+4984,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00859.png,1
+6190,Fish_Dataset/Fish_Dataset/Trout/Trout/00249.png,7
+3474,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00081.png,6
+5796,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00184.png,4
+8257,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00519.png,8
+3187,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00007.png,6
+8042,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00568.png,8
+6175,Fish_Dataset/Fish_Dataset/Trout/Trout/00126.png,7
+8217,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00037.png,8
+8357,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00532.png,8
+1769,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00955.png,0
+5832,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00069.png,4
+4748,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00656.png,1
+536,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00431.png,3
+1600,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00194.png,0
+163,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00849.png,3
+7374,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00232.png,2
+7756,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00993.png,2
+3130,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00735.png,6
+3085,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00027.png,6
+6817,Fish_Dataset/Fish_Dataset/Trout/Trout/00044.png,7
+3211,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00975.png,6
+665,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00048.png,3
+6669,Fish_Dataset/Fish_Dataset/Trout/Trout/00984.png,7
+7203,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00701.png,2
+7942,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00578.png,2
+6272,Fish_Dataset/Fish_Dataset/Trout/Trout/00713.png,7
+1189,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00906.png,0
+794,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00330.png,3
+7241,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00434.png,2
+2720,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00530.png,5
+4553,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00651.png,1
+7891,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00719.png,2
+2727,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00213.png,5
+7283,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00832.png,2
+3298,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00054.png,6
+7305,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00415.png,2
+8187,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00007.png,8
+7344,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00276.png,2
+1686,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00139.png,0
+8437,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00994.png,8
+1566,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00186.png,0
+8948,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00311.png,8
+4041,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00504.png,1
+4959,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00353.png,1
+6648,Fish_Dataset/Fish_Dataset/Trout/Trout/00774.png,7
+3231,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00554.png,6
+3323,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00547.png,6
+4929,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00765.png,1
+2484,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00208.png,5
+1782,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00238.png,0
+3041,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00504.png,6
+6089,Fish_Dataset/Fish_Dataset/Trout/Trout/00005.png,7
+4131,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00225.png,1
+2930,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00965.png,5
+5273,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00838.png,4
+6720,Fish_Dataset/Fish_Dataset/Trout/Trout/00530.png,7
+1661,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00910.png,0
+7183,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00057.png,2
+6556,Fish_Dataset/Fish_Dataset/Trout/Trout/00610.png,7
+5403,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00750.png,4
+4816,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00286.png,1
+6012,Fish_Dataset/Fish_Dataset/Trout/Trout/00288.png,7
+4228,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00546.png,1
+7537,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00512.png,2
+2363,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00160.png,5
+6291,Fish_Dataset/Fish_Dataset/Trout/Trout/00187.png,7
+1982,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00706.png,0
+5753,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00137.png,4
+2438,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00446.png,5
+2155,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00566.png,5
+5579,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00951.png,4
+4290,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00285.png,1
+1458,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00635.png,0
+886,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00050.png,3
+7106,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00324.png,2
+8970,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00850.png,8
+5009,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00641.png,4
+6073,Fish_Dataset/Fish_Dataset/Trout/Trout/00630.png,7
+5592,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00150.png,4
+4038,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00021.png,1
+4571,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00459.png,1
+6660,Fish_Dataset/Fish_Dataset/Trout/Trout/00971.png,7
+8045,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00922.png,8
+3316,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00731.png,6
+6957,Fish_Dataset/Fish_Dataset/Trout/Trout/00608.png,7
+1121,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00919.png,0
+8270,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00665.png,8
+2165,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00574.png,5
+1560,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00829.png,0
+7007,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00961.png,2
+6727,Fish_Dataset/Fish_Dataset/Trout/Trout/00213.png,7
+3368,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00897.png,6
+8202,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00703.png,8
+4641,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00396.png,1
+5251,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00125.png,4
+5437,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00994.png,4
+3948,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00311.png,6
+7484,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00208.png,2
+8009,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00641.png,8
+3438,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00446.png,6
+4295,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00900.png,1
+585,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00105.png,3
+6495,Fish_Dataset/Fish_Dataset/Trout/Trout/00409.png,7
+2206,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00237.png,5
+1080,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00500.png,0
+4955,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00333.png,1
+3809,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00188.png,6
+6585,Fish_Dataset/Fish_Dataset/Trout/Trout/00105.png,7
+8704,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00455.png,8
+8508,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00394.png,8
+678,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00992.png,3
+708,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00846.png,3
+2563,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00562.png,5
+6446,Fish_Dataset/Fish_Dataset/Trout/Trout/00357.png,7
+1105,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00561.png,0
+6167,Fish_Dataset/Fish_Dataset/Trout/Trout/00146.png,7
+4690,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00162.png,1
+5739,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00831.png,4
+7489,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00183.png,2
+6270,Fish_Dataset/Fish_Dataset/Trout/Trout/00665.png,7
+6113,Fish_Dataset/Fish_Dataset/Trout/Trout/00825.png,7
+7120,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00438.png,2
+4458,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00635.png,1
+5169,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00133.png,4
+7901,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00407.png,2
+8414,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00071.png,8
+7851,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00190.png,2
+3994,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00550.png,6
+7366,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00435.png,2
+3447,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00364.png,6
+5752,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00882.png,4
+7956,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00101.png,2
+1330,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00949.png,0
+7150,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00871.png,2
+1821,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00931.png,0
+3961,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00885.png,6
+2925,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00282.png,5
+3266,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00738.png,6
+2214,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00486.png,5
+6214,Fish_Dataset/Fish_Dataset/Trout/Trout/00486.png,7
+813,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00209.png,3
+3117,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00679.png,6
+786,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00047.png,3
+8441,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00928.png,8
+39,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00494.png,3
+519,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00902.png,3
+8524,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00061.png,8
+6336,Fish_Dataset/Fish_Dataset/Trout/Trout/00631.png,7
+4014,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00078.png,1
+5244,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00612.png,4
+3101,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00019.png,6
+7881,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00264.png,2
+8154,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00691.png,8
+4409,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00236.png,1
+7631,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00135.png,2
+6888,Fish_Dataset/Fish_Dataset/Trout/Trout/00327.png,7
+7216,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00195.png,2
+1241,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00434.png,0
+1646,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00912.png,0
+8829,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00720.png,8
+7619,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00968.png,2
+8446,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00357.png,8
+600,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00194.png,3
+1491,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00728.png,0
+6102,Fish_Dataset/Fish_Dataset/Trout/Trout/00085.png,7
+484,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00208.png,3
+7034,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00896.png,2
+7880,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00724.png,2
+7333,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00052.png,2
+639,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00499.png,3
+3651,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00828.png,6
+7686,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00139.png,2
+5092,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00889.png,4
+3045,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00922.png,6
+5140,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00056.png,4
+7426,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00571.png,2
+2211,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00975.png,5
+5871,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/01000.png,4
+2518,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00709.png,5
+7718,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00567.png,2
+2829,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00720.png,5
+1013,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00864.png,0
+5810,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00614.png,4
+6715,Fish_Dataset/Fish_Dataset/Trout/Trout/00413.png,7
+6096,Fish_Dataset/Fish_Dataset/Trout/Trout/00096.png,7
+2941,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00658.png,5
+7293,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00867.png,2
+467,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00252.png,3
+5929,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00765.png,4
+6151,Fish_Dataset/Fish_Dataset/Trout/Trout/00710.png,7
+6739,Fish_Dataset/Fish_Dataset/Trout/Trout/00831.png,7
+5321,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00158.png,4
+8101,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00019.png,8
+5600,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00194.png,4
+5361,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00458.png,4
+4378,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00686.png,1
+1091,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00944.png,0
+5698,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00038.png,4
+3684,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00448.png,6
+2639,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00499.png,5
+8028,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00539.png,8
+8734,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00699.png,8
+543,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00879.png,3
+4831,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00528.png,1
+3779,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00157.png,6
+3907,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00342.png,6
+8254,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00982.png,8
+3901,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00407.png,6
+8280,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00012.png,8
+3786,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00047.png,6
+6031,Fish_Dataset/Fish_Dataset/Trout/Trout/00726.png,7
+7307,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00172.png,2
+792,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00558.png,3
+3853,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00400.png,6
+6831,Fish_Dataset/Fish_Dataset/Trout/Trout/00528.png,7
+7125,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00305.png,2
+4171,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00360.png,1
+7058,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00923.png,2
+2308,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00254.png,5
+130,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00735.png,3
+7357,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00532.png,2
+5545,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00660.png,4
+4477,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00277.png,1
+6938,Fish_Dataset/Fish_Dataset/Trout/Trout/00999.png,7
+8371,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00167.png,8
+6735,Fish_Dataset/Fish_Dataset/Trout/Trout/00632.png,7
+4580,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00323.png,1
+3965,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00565.png,6
+4897,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00604.png,1
+8178,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00800.png,8
+1475,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00990.png,0
+2914,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00261.png,5
+5326,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00815.png,4
+6093,Fish_Dataset/Fish_Dataset/Trout/Trout/00741.png,7
+6100,Fish_Dataset/Fish_Dataset/Trout/Trout/00998.png,7
+2117,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00679.png,5
+6040,Fish_Dataset/Fish_Dataset/Trout/Trout/00230.png,7
+4587,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00995.png,1
+7943,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00034.png,2
+8522,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00219.png,8
+4390,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00684.png,1
+3025,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00072.png,6
+7215,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00387.png,2
+5420,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00461.png,4
+7413,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00420.png,2
+8125,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00305.png,8
+1508,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00394.png,0
+4820,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00271.png,1
+15,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00346.png,3
+1564,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00693.png,0
+3708,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00846.png,6
+7128,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00872.png,2
+6616,Fish_Dataset/Fish_Dataset/Trout/Trout/00505.png,7
+3076,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00197.png,6
+1856,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00108.png,0
+8207,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00303.png,8
+2784,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00476.png,5
+5619,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00968.png,4
+2606,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00820.png,5
+4333,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00052.png,1
+8410,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00945.png,8
+1270,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00665.png,0
+282,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00737.png,3
+7516,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00080.png,2
+6978,Fish_Dataset/Fish_Dataset/Trout/Trout/00585.png,7
+237,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00191.png,3
+8765,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00629.png,8
+4022,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00522.png,1
+1561,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00045.png,0
+1700,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00022.png,0
+6208,Fish_Dataset/Fish_Dataset/Trout/Trout/00229.png,7
+8776,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00681.png,8
+8973,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00181.png,8
+8096,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00096.png,8
+2143,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00084.png,5
+532,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00953.png,3
+5445,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00782.png,4
+1862,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00140.png,0
+3262,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00541.png,6
+8025,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00072.png,8
+1663,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00801.png,0
+2255,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00959.png,5
+5847,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00460.png,4
+4776,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00681.png,1
+1775,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00065.png,0
+5963,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00881.png,4
+1308,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00254.png,0
+625,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00668.png,3
+4142,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00834.png,1
+6000,Fish_Dataset/Fish_Dataset/Trout/Trout/00437.png,7
+2097,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00059.png,5
+2980,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00877.png,5
+4288,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00678.png,1
+8887,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00705.png,8
+3918,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00770.png,6
+71,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00093.png,3
+381,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00506.png,3
+7205,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00372.png,2
+2233,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00540.png,5
+8595,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00487.png,8
+1840,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00507.png,0
+5789,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00803.png,4
+8235,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00685.png,8
+485,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00239.png,3
+8833,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00755.png,8
+596,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00646.png,3
+5498,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00349.png,4
+8337,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00633.png,8
+8209,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00890.png,8
+5547,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00921.png,4
+948,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00311.png,3
+950,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00450.png,3
+4077,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00729.png,1
+5331,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00913.png,4
+7019,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00136.png,2
+3522,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00219.png,6
+3275,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00854.png,6
+8677,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00661.png,8
+5186,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00164.png,4
+2809,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00188.png,5
+3268,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00142.png,6
+3475,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00990.png,6
+6423,Fish_Dataset/Fish_Dataset/Trout/Trout/00581.png,7
+3908,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00979.png,6
+3771,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00301.png,6
+5938,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00999.png,4
+2154,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00691.png,5
+3219,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00536.png,6
+8610,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00390.png,8
+8258,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00380.png,8
+6916,Fish_Dataset/Fish_Dataset/Trout/Trout/00070.png,7
+2044,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00206.png,5
+7690,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00162.png,2
+8893,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00182.png,8
+8929,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00765.png,8
+7011,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00964.png,2
+7383,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00148.png,2
+4512,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00479.png,1
+910,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00954.png,3
+8491,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00728.png,8
+6694,Fish_Dataset/Fish_Dataset/Trout/Trout/00145.png,7
+4600,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00194.png,1
+6343,Fish_Dataset/Fish_Dataset/Trout/Trout/00615.png,7
+6273,Fish_Dataset/Fish_Dataset/Trout/Trout/00838.png,7
+6198,Fish_Dataset/Fish_Dataset/Trout/Trout/00884.png,7
+2537,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00512.png,5
+2803,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00466.png,5
+1413,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00420.png,0
+4724,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00297.png,1
+1955,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00333.png,0
+3028,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00539.png,6
+2782,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00238.png,5
+7184,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00384.png,2
+778,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00151.png,3
+6573,Fish_Dataset/Fish_Dataset/Trout/Trout/00030.png,7
+2972,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00891.png,5
+1071,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00093.png,0
+3562,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00247.png,6
+914,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00261.png,3
+8771,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00301.png,8
+1454,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00389.png,0
+1087,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00595.png,0
+5259,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00320.png,4
+982,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00706.png,3
+8290,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00285.png,8
+264,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00548.png,3
+3751,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00508.png,6
+8388,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00818.png,8
+5982,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00706.png,4
+6426,Fish_Dataset/Fish_Dataset/Trout/Trout/00571.png,7
+8897,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00604.png,8
+1020,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00751.png,0
+5254,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00982.png,4
+3051,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00366.png,6
+3946,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00290.png,6
+2049,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00385.png,5
+5519,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00902.png,4
+3620,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00016.png,6
+378,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00686.png,3
+7801,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00250.png,2
+8188,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00863.png,8
+5612,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00844.png,4
+6365,Fish_Dataset/Fish_Dataset/Trout/Trout/00298.png,7
+8862,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00140.png,8
+8002,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00248.png,8
+3203,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00701.png,6
+7641,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00396.png,2
+6116,Fish_Dataset/Fish_Dataset/Trout/Trout/00745.png,7
+7823,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00839.png,2
+7668,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00817.png,2
+4872,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00216.png,1
+7968,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00337.png,2
+8020,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00751.png,8
+734,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00699.png,3
+1252,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00981.png,0
+6009,Fish_Dataset/Fish_Dataset/Trout/Trout/00641.png,7
+352,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00235.png,3
+6497,Fish_Dataset/Fish_Dataset/Trout/Trout/00756.png,7
+7335,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00026.png,2
+103,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00379.png,3
+919,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00270.png,3
+5888,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00327.png,4
+2437,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00994.png,5
+1555,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00518.png,0
+195,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00017.png,3
+4574,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00352.png,1
+5759,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00584.png,4
+8148,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00873.png,8
+8550,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00860.png,8
+7915,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00169.png,2
+906,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00721.png,3
+8065,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00114.png,8
+6441,Fish_Dataset/Fish_Dataset/Trout/Trout/00928.png,7
+6351,Fish_Dataset/Fish_Dataset/Trout/Trout/00341.png,7
+6608,Fish_Dataset/Fish_Dataset/Trout/Trout/00714.png,7
+6835,Fish_Dataset/Fish_Dataset/Trout/Trout/00155.png,7
+3136,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00716.png,6
+5605,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00066.png,4
+505,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00111.png,3
+2365,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00298.png,5
+5085,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00027.png,4
+6493,Fish_Dataset/Fish_Dataset/Trout/Trout/00682.png,7
+371,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00167.png,3
+942,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00578.png,3
+4401,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00609.png,1
+6638,Fish_Dataset/Fish_Dataset/Trout/Trout/00784.png,7
+2934,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00596.png,5
+5511,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00404.png,4
+6055,Fish_Dataset/Fish_Dataset/Trout/Trout/00972.png,7
+6789,Fish_Dataset/Fish_Dataset/Trout/Trout/00803.png,7
+5124,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00625.png,4
+2995,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00392.png,5
+5559,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00853.png,4
+836,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00749.png,3
+827,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00616.png,3
+6552,Fish_Dataset/Fish_Dataset/Trout/Trout/00163.png,7
+1937,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00572.png,0
+8048,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00491.png,8
+4418,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00785.png,1
+648,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00774.png,3
+3820,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00271.png,6
+6955,Fish_Dataset/Fish_Dataset/Trout/Trout/00333.png,7
+5073,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00630.png,4
+6626,Fish_Dataset/Fish_Dataset/Trout/Trout/00636.png,7
+4502,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00582.png,1
+1476,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00039.png,0
+1385,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00102.png,0
+6723,Fish_Dataset/Fish_Dataset/Trout/Trout/00260.png,7
+8310,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00001.png,8
+226,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00583.png,3
+7,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00961.png,3
+5089,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00005.png,4
+7038,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00021.png,2
+1130,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00735.png,0
+1161,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00029.png,0
+2875,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00076.png,5
+4319,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00936.png,1
+2493,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00682.png,5
+7918,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00770.png,2
+6572,Fish_Dataset/Fish_Dataset/Trout/Trout/00933.png,7
+6283,Fish_Dataset/Fish_Dataset/Trout/Trout/00832.png,7
+3971,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00334.png,6
+669,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00984.png,3
+8122,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00588.png,8
+3072,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00639.png,6
+2510,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00932.png,5
+259,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00320.png,3
+1339,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00602.png,0
+2149,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00680.png,5
+8602,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00198.png,8
+1243,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00503.png,0
+7304,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00797.png,2
+5155,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00566.png,4
+3375,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00432.png,6
+8583,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00067.png,8
+267,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00925.png,3
+475,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00990.png,3
+3439,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00606.png,6
+2935,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00743.png,5
+2007,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00961.png,5
+7174,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00295.png,2
+5866,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00598.png,4
+1510,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00932.png,0
+3210,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00806.png,6
+2627,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00356.png,5
+904,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00377.png,3
+2801,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00250.png,5
+246,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00545.png,3
+2659,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00692.png,5
+3358,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00688.png,6
+5727,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00213.png,4
+6129,Fish_Dataset/Fish_Dataset/Trout/Trout/00644.png,7
+4799,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00134.png,1
+7796,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00184.png,2
+8089,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00005.png,8
+4917,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00403.png,1
+1474,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00081.png,0
+7118,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00835.png,2
+3420,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00461.png,6
+209,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00890.png,3
+3885,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00253.png,6
+7177,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00068.png,2
+6443,Fish_Dataset/Fish_Dataset/Trout/Trout/00917.png,7
+1504,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00618.png,0
+6119,Fish_Dataset/Fish_Dataset/Trout/Trout/00480.png,7
+2063,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00733.png,5
+7250,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00611.png,2
+4447,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00364.png,1
+4615,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00663.png,1
+2263,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00177.png,5
+2833,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00755.png,5
+4839,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00768.png,1
+2733,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00132.png,5
+3410,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00945.png,6
+8675,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00073.png,8
+8702,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00967.png,8
+618,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00870.png,3
+1160,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00469.png,0
+4636,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00810.png,1
+5599,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00414.png,4
+5604,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00736.png,4
+2810,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00614.png,5
+2295,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00900.png,5
+426,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00571.png,3
+6428,Fish_Dataset/Fish_Dataset/Trout/Trout/00204.png,7
+953,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00876.png,3
+8921,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00036.png,8
+3805,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00178.png,6
+1387,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00316.png,0
+3883,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00309.png,6
+7836,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00749.png,2
+2981,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00924.png,5
+2267,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00925.png,5
+4549,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00826.png,1
+2944,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00489.png,5
+1034,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00896.png,0
+1699,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00675.png,0
+1871,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/01000.png,0
+774,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00427.png,3
+1435,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00757.png,0
+8110,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00345.png,8
+3869,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00973.png,6
+7775,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00065.png,2
+4784,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00476.png,1
+1205,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00372.png,0
+6042,Fish_Dataset/Fish_Dataset/Trout/Trout/00568.png,7
+2183,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00057.png,5
+6125,Fish_Dataset/Fish_Dataset/Trout/Trout/00305.png,7
+4224,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00464.png,1
+7085,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00027.png,2
+2012,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00288.png,5
+4934,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00596.png,1
+8084,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00764.png,8
+3741,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00104.png,6
+4004,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00689.png,1
+7160,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00469.png,2
+6228,Fish_Dataset/Fish_Dataset/Trout/Trout/00546.png,7
+1102,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00085.png,0
+2028,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00539.png,5
+3626,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00636.png,6
+8046,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00086.png,8
+4864,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00648.png,1
+8420,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00461.png,8
+7496,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00475.png,2
+5172,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00697.png,4
+6367,Fish_Dataset/Fish_Dataset/Trout/Trout/00786.png,7
+2221,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00509.png,5
+4294,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00098.png,1
+3019,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00136.png,6
+7692,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00094.png,2
+5834,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00266.png,4
+8746,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00340.png,8
+2884,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00575.png,5
+8655,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00988.png,8
+5570,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00171.png,4
+1315,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00251.png,0
+8345,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00211.png,8
+1427,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00180.png,0
+4167,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00146.png,1
+2087,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00595.png,5
+558,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00335.png,3
+7812,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00794.png,2
+1484,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00208.png,0
+8501,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00843.png,8
+5351,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00341.png,4
+4197,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00281.png,1
+4850,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00347.png,1
+6714,Fish_Dataset/Fish_Dataset/Trout/Trout/00937.png,7
+1614,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00659.png,0
+2762,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00934.png,5
+5869,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00973.png,4
+7275,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00854.png,2
+2222,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00141.png,5
+296,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00412.png,3
+4103,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00379.png,1
+7281,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00842.png,2
+7144,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00763.png,2
+5138,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00943.png,4
+4094,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00627.png,1
+1166,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00521.png,0
+933,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00326.png,3
+8173,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00674.png,8
+8229,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00422.png,8
+4645,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00291.png,1
+7197,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00281.png,2
+3857,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00557.png,6
+7340,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00812.png,2
+5170,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00231.png,4
+3170,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00231.png,6
+3327,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00977.png,6
+7113,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00825.png,2
+8411,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00983.png,8
+3242,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00383.png,6
+553,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00651.png,3
+1875,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00076.png,0
+4578,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00099.png,1
+2093,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00741.png,5
+8837,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00866.png,8
+5652,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00836.png,4
+5038,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00021.png,4
+2464,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00915.png,5
+3652,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00836.png,6
+5666,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00283.png,4
+928,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00687.png,3
+5043,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00013.png,4
+8260,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00947.png,8
+4965,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00565.png,1
+6941,Fish_Dataset/Fish_Dataset/Trout/Trout/00658.png,7
+943,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00034.png,3
+1805,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00178.png,0
+7971,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00334.png,2
+5695,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00245.png,4
+523,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00734.png,3
+5310,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00001.png,4
+2746,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00340.png,5
+7302,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00676.png,2
+1273,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00838.png,0
+2072,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00639.png,5
+7555,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00518.png,2
+3206,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00237.png,6
+4320,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00700.png,1
+7310,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00001.png,2
+1106,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00324.png,0
+2178,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00800.png,5
+1313,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00079.png,0
+1771,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00301.png,0
+1366,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00435.png,0
+5763,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00015.png,4
+5018,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00930.png,4
+4827,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00616.png,1
+2180,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00474.png,5
+2275,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00854.png,5
+7982,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00706.png,2
+4348,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00411.png,1
+4778,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00151.png,1
+8494,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00035.png,8
+6876,Fish_Dataset/Fish_Dataset/Trout/Trout/00671.png,7
+365,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00298.png,3
+5477,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00277.png,4
+5153,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00115.png,4
+8050,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00318.png,8
+2926,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00024.png,5
+2379,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00009.png,5
+4525,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00077.png,1
+7587,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00995.png,2
+612,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00844.png,3
+3609,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00556.png,6
+1001,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00974.png,0
+8386,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00795.png,8
+2238,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00642.png,5
+7164,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00985.png,2
+790,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00129.png,3
+4421,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00262.png,1
+2357,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00532.png,5
+4375,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00432.png,1
+4668,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00817.png,1
+5671,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00909.png,4
+6526,Fish_Dataset/Fish_Dataset/Trout/Trout/00436.png,7
+6511,Fish_Dataset/Fish_Dataset/Trout/Trout/00404.png,7
+1815,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00862.png,0
+3434,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00821.png,6
+1831,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00528.png,0
+4797,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00075.png,1
+7647,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00344.png,2
+2586,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00472.png,5
+5987,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00920.png,4
+2070,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00769.png,5
+4136,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00716.png,1
+2642,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00586.png,5
+8688,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00624.png,8
+2804,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00319.png,5
+7494,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00035.png,2
+5885,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00253.png,4
+847,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00460.png,3
+6600,Fish_Dataset/Fish_Dataset/Trout/Trout/00194.png,7
+5356,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00496.png,4
+566,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00186.png,3
+4546,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00465.png,1
+4595,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00487.png,1
+687,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00189.png,3
+435,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00757.png,3
+6553,Fish_Dataset/Fish_Dataset/Trout/Trout/00651.png,7
+8697,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00895.png,8
+4269,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00481.png,1
+2824,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00599.png,5
+1897,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00604.png,0
+7745,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00445.png,2
+570,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00171.png,3
+2349,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00978.png,5
+876,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00671.png,3
+6818,Fish_Dataset/Fish_Dataset/Trout/Trout/00899.png,7
+8113,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00825.png,8
+3576,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00456.png,6
+2742,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00760.png,5
+1389,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00168.png,0
+4664,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00123.png,1
+3778,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00151.png,6
+6536,Fish_Dataset/Fish_Dataset/Trout/Trout/00431.png,7
+1201,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00376.png,0
+4970,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00850.png,1
+1729,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00855.png,0
+6719,Fish_Dataset/Fish_Dataset/Trout/Trout/00501.png,7
+5426,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00571.png,4
+5272,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00713.png,4
+2967,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00200.png,5
+757,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00393.png,3
+8896,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00516.png,8
+6681,Fish_Dataset/Fish_Dataset/Trout/Trout/00649.png,7
+6269,Fish_Dataset/Fish_Dataset/Trout/Trout/00481.png,7
+7510,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00932.png,2
+7351,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00341.png,2
+1191,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00513.png,0
+7810,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00614.png,2
+5882,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00218.png,4
+5494,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00035.png,4
+1372,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00707.png,0
+3876,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00671.png,6
+1099,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00569.png,0
+4012,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00288.png,1
+4573,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00030.png,1
+177,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00068.png,3
+4317,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00371.png,1
+3665,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00048.png,6
+2750,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00783.png,5
+5853,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00400.png,4
+3599,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00414.png,6
+5595,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00487.png,4
+3442,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00113.png,6
+2339,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00602.png,5
+108,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00443.png,3
+8670,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00127.png,8
+4235,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00685.png,1
+7192,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00563.png,2
+7427,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00180.png,2
+4622,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00279.png,1
+128,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00872.png,3
+5455,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00149.png,4
+2928,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00687.png,5
+7217,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00037.png,2
+4612,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00844.png,1
+4910,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00954.png,1
+8614,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00659.png,8
+1776,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00681.png,0
+2374,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00232.png,5
+3042,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00568.png,6
+161,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00029.png,3
+891,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00719.png,3
+5007,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00961.png,4
+1021,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00893.png,0
+6902,Fish_Dataset/Fish_Dataset/Trout/Trout/00258.png,7
+219,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00536.png,3
+644,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00497.png,3
+3550,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00860.png,6
+503,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00916.png,3
+7222,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00141.png,2
+1459,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00673.png,0
+2522,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00219.png,5
+2993,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00256.png,5
+3440,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00165.png,6
+4499,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00653.png,1
+3923,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00343.png,6
+5602,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00198.png,4
+3888,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00327.png,6
+476,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00039.png,3
+5449,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00234.png,4
+5618,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00870.png,4
+3866,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00598.png,6
+3943,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00034.png,6
+1565,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00744.png,0
+7743,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00960.png,2
+3111,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00878.png,6
+5154,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00691.png,4
+386,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00795.png,3
+4419,Fish_Dataset/Fish_Dataset/Gilt-Head Bream/Gilt-Head Bream/00827.png,1
+1562,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00247.png,0
+3426,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00571.png,6
+2083,Fish_Dataset/Fish_Dataset/Sea Bass/Sea Bass/00766.png,5
+3274,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00637.png,6
+5977,Fish_Dataset/Fish_Dataset/Red Sea Bream/Red Sea Bream/00482.png,4
+3600,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00194.png,6
+7155,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00566.png,2
+8075,Fish_Dataset/Fish_Dataset/Striped Red Mullet/Striped Red Mullet/00025.png,8
+6179,Fish_Dataset/Fish_Dataset/Trout/Trout/00894.png,7
+453,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00263.png,3
+7839,Fish_Dataset/Fish_Dataset/Hourse Mackerel/Hourse Mackerel/00768.png,2
+3110,Fish_Dataset/Fish_Dataset/Shrimp/Shrimp/00345.png,6
+987,Fish_Dataset/Fish_Dataset/Red Mullet/Red Mullet/00920.png,3
+1992,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00221.png,0
+1466,Fish_Dataset/Fish_Dataset/Black Sea Sprat/Black Sea Sprat/00808.png,0

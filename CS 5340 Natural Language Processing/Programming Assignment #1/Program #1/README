@@ -1,0 +1,8 @@
+How to compile sentiment.py using trainB.txt, testB.txt, and lexicon.txt:
+python3 sentiment.py ./data-files/trainB.txt ./data-files/testB.txt ./data-files/lexicon.txt
+
+Cade machine:
+lab1-16
+
+Any known bugs or limitations:
+-The code works, but it takes a really, really long time to complete. Maybe 5 to 10 minutes or more. The csv files match up nicely enough, though.

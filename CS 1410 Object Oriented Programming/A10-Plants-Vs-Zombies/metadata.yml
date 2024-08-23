@@ -1,0 +1,14 @@
+---
+:id: 35484979
+:submitters:
+- :name: HARRY KIM
+  :email: u1226472@utah.edu
+- :name: CONNOR BARRY
+  :email: u1065285@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-04-21 23:37:29.439968000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-04-21 16:37:29.439968000 Z
+:status: processed
+:score: 97.0

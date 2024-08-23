@@ -1,0 +1,9 @@
+Accuracy of k = 5 nearest neighbor for Black Sea Sprat: 2.000000e-01
+Accuracy of k = 5 nearest neighbor for Gilt Head Bream: 1.400000e-01
+Accuracy of k = 5 nearest neighbor for Horse Mackerel: 1.600000e-01
+Accuracy of k = 5 nearest neighbor for Red Mullet: 3.200000e-01
+Accuracy of k = 5 nearest neighbor for Red Sea Bream: 6.122449e-02
+Accuracy of k = 5 nearest neighbor for Sea Bass: 1.000000e-01
+Accuracy of k = 5 nearest neighbor for Shrimp: 4.800000e-01
+Accuracy of k = 5 nearest neighbor for Striped Red Mullet: 8.000000e-02
+Accuracy of k = 5 nearest neighbor for Trout: 0

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>background.jpg</file>
+        <file>exit.png</file>
+    </qresource>
+</RCC>
